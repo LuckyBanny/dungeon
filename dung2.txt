@@ -309,16 +309,6 @@ game.Players.LocalPlayer.Character.Humanoid:MoveTo(Vector3.new(0.151551708579063
 wait(2)
 game.Players.LocalPlayer.Character.Humanoid:MoveTo(Vector3.new(0.15155170857906342, 10491.5673828125, -30.678892135620117))
 wait(2)
-game.Players.LocalPlayer.Character.Humanoid:MoveTo(Vector3.new(0.15155170857906342, 10491.5673828125, -30.678892135620117))
-wait(2)
-game.Players.LocalPlayer.Character.Humanoid:MoveTo(Vector3.new(0.15155170857906342, 10491.5673828125, -30.678892135620117))
-wait(2)
-game.Players.LocalPlayer.Character.Humanoid:MoveTo(Vector3.new(0.15155170857906342, 10491.5673828125, -30.678892135620117))
-wait(2)
-game.Players.LocalPlayer.Character.Humanoid:MoveTo(Vector3.new(0.15155170857906342, 10491.5673828125, -30.678892135620117))
-wait(2)
-game.Players.LocalPlayer.Character.Humanoid:MoveTo(Vector3.new(0.15155170857906342, 10491.5673828125, -30.678892135620117))
-wait(2)
 
 local args = {
     [1] = {
@@ -345,7 +335,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
-wait(1500)
+wait(1466)
 end
 end)
 
@@ -561,7 +551,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
-wait(1700)
+wait(1586)
 end
 end)
 
@@ -658,7 +648,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
-wait(3410)
+wait(3340)
 end
 end)
 
