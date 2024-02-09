@@ -509,6 +509,8 @@ game.Players.LocalPlayer.Character.Humanoid:MoveTo(Vector3.new(1000.624114550781
 wait(2)
 game.Players.LocalPlayer.Character.Humanoid:MoveTo(Vector3.new(1000.62411455078125, 10491.5654296875, -3293.07470703125))
 wait(2)
+game.Players.LocalPlayer.Character.Humanoid:MoveTo(Vector3.new(1000.62411455078125, 10491.5654296875, -3293.07470703125))
+wait(2)
 local args = {
     [1] = {
         [1] = {
@@ -604,7 +606,7 @@ wait(2)
 game.Players.LocalPlayer.Character.Humanoid:MoveTo(Vector3.new(-13564.576171875, 5980.33984375, 197.97509765625))
 wait(2)
 game.Players.LocalPlayer.Character.Humanoid:MoveTo(Vector3.new(-13564.576171875, 5980.33984375, 197.97509765625))
-wait(192)
+wait(190)
 
 local args = {
     [1] = {
